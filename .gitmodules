@@ -1,0 +1,3 @@
+[submodule "client-gateway"]
+	path = client-gateway
+	url = https://github.com/Inventory-App-Nest/client-gateway.git
