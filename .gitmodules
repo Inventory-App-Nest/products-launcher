@@ -7,3 +7,6 @@
 [submodule "products-ms"]
 	path = products-ms
 	url = https://github.com/Inventory-App-Nest/products-microservices.git
+[submodule "auth-ms"]
+	path = auth-ms
+	url = https://github.com/Inventory-App-Nest/auth-ms.git
