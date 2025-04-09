@@ -10,3 +10,6 @@
 [submodule "auth-ms"]
 	path = auth-ms
 	url = https://github.com/Inventory-App-Nest/auth-ms.git
+[submodule "payments-ms"]
+	path = payments-ms
+	url = https://github.com/Inventory-App-Nest/payments-ms.git
